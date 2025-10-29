@@ -1,10 +1,23 @@
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 function Login() {
  const [showPassword, setShowPassword] = useState(false);
+ const [buttonDisabled, setButtonDisabled] = useState(true);
+ const [email, setEmail] = useState('');
+ const [password, setPassword] = useState('');
+
+ useEffect(() => {
+    if (email.length > 0 && password.length > 0) {
+      setButtonDisabled(false);
+    } else {
+      setButtonDisabled(true);
+    }
+  }, [email, password]);
+
+
  const togglePassword = () => {
     setShowPassword(!showPassword);
   };
@@ -29,7 +42,10 @@ const navigateToHome = () => {
 
           <div className="grid w-full max-w-sm items-center gap-3 !mt-5">
             <Input
+              value={email}
+             onChange={(e) => setEmail(e.target.value)}
               type="email"
+              name="email"
               id="email"
               placeholder="Email"
               className="border-2 !p-5 outline-none bg-gray-50 text-gray-800 focus-visible:ring-2 focus-visible:ring-blue-500"
@@ -38,7 +54,10 @@ const navigateToHome = () => {
             <div className="relative">
             <i className="fa-solid fa-eye-slash cursor-pointer !absolute !right-4 !top-1/2 !-translate-y-1/2" onClick={togglePassword}></i>
             <Input
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
               type={showPassword ? 'text' : 'password'}
+              name="password"
               id="password"
               placeholder="Password"
               className="border-2 !p-5 outline-none bg-gray-50 text-gray-800 focus-visible:ring-2 focus-visible:ring-blue-500"
@@ -49,6 +68,7 @@ const navigateToHome = () => {
               type="submit"
               className="w-full !p-5 outline-none bg-blue-500 text-white focus-visible:ring-2 focus-visible:ring-blue-500"
               onClick={navigateToHome}
+              disabled={buttonDisabled}
             >
               Login
             </Button>

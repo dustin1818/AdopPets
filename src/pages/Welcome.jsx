@@ -1,7 +1,11 @@
+import Navigation from "./Navigation";
+
 function Welcome() {
   return (
     <div>
-      <h1>Welcome</h1>
+      <Navigation />
+      
+      
     </div>
   );
 }

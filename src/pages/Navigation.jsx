@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navigation() {
   return (
-    <div className="w-full shadow-md !py-8 sticky top-0 z-50">
+    <div className="w-full shadow-md !py-8 sticky top-0 z-50 bg-white">
       <div className="max-w-7xl !mx-auto flex justify-between items-center">
         <div className="logo">
           <h1 className="text-3xl font-extrabold">

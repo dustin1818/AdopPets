@@ -1,6 +1,8 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Navigation() {
+  const location = useLocation();
+
   return (
     <div className="w-full shadow-md !py-8 sticky top-0 z-50 bg-white">
       <div className="max-w-7xl !mx-auto flex justify-between items-center">
@@ -11,10 +13,18 @@ function Navigation() {
         </div>
         <div className="nav">
           <ul className="flex gap-8">
-            <li className="hover:text-blue-400"><Link to="/welcome"> Home</Link></li>
-            <li className="hover:text-blue-400"><Link to="/Adopt"> Adopt</Link></li>
-            <li className="hover:text-blue-400"><Link to="/Donate">Donate</Link></li>
-            <li className="hover:text-blue-400"><Link to="/About">About</Link></li>
+            <li className={location.pathname === "/welcome" ? "text-blue-400 font-bold" : "hover:text-blue-400"}>
+              <Link to="/welcome">Home</Link>
+            </li>
+            <li className={location.pathname === "/Adopt" ? "text-blue-400 font-bold " : "hover:text-blue-400"}>
+              <Link to="/Adopt">Adopt</Link>
+            </li>
+            <li className={location.pathname === "/Donate" ? "text-blue-400 font-bold"  : "hover:text-blue-400"}>
+              <Link to="/Donate">Donate</Link>
+            </li>
+            <li className={location.pathname === "/Contact" ? "text-blue-400 font-bold" : "hover:text-blue-400"}>
+              <Link to="/Contact">Contact</Link>
+            </li>
           </ul>
         </div>
 

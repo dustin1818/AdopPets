@@ -3,10 +3,10 @@
   "url": "https://paws.org.ph/adriana/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/3d0f3cbe-451b-4211-9489-92c2b8904b81-e1760077289999-1014x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5421-scaled-e1760077303186-1024x968.jpg",
-    "elementor-heading-title": "Adriana",
-    "p": "Approx. 2 years old",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/3d0f3cbe-451b-4211-9489-92c2b8904b81-e1760077289999-1014x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5421-scaled-e1760077303186-1024x968.jpg",
+    "id": "Adriana",
+    "age": "Approx. 2 years old",
     "b": "F",
     "p_2": "Adriana was rescued back in 2023, Adriana loves to chill and hang out at her favorite spot. When you first meet her, she may seem like a very shy and quiet girl, but stick around a bit and you’ll find she just loves to take her time to get to know new people.",
     "p_3": "Once she warms up to you, this introverted soul will allow you to pet her as much as you can. Adriana is a great match for someone who is looking for a calm, collected, and utterly sweet companion."
@@ -18,10 +18,10 @@
   "url": "https://paws.org.ph/donner/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/346097348_803771901035023_2090796681533657167_n-e1760077175573-771x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Donner-2-1024x683.jpg",
-    "elementor-heading-title": "Donner",
-    "p": "Approx. 4 years old",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/346097348_803771901035023_2090796681533657167_n-e1760077175573-771x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Donner-2-1024x683.jpg",
+    "id": "Donner",
+    "age": "Approx. 4 years old",
     "b": "M",
     "p_2": "Is he chonky or is he just fluffy? In Donner’s case, he’s definitely both! Donner and his littermates like Blitzen were rescued back in 2022 and named after Santa’s reindeers.",
     "p_3": "While he tends to be a little shy at first and won’t usually seek out new visitors on his own, he absolutely love pets and cuddles when visitors approach him. Once Donner gets to know you, he might even return the favor and make the first move. While the original Donner helps Santa deliver his gifts to those deserving, our sweet Donner is still waiting at the shelter for the one gift every rescue deserves: a forever home."
@@ -33,11 +33,11 @@
   "url": "https://paws.org.ph/marie/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/173711745_462912545035197_1350887080322631164_n-e1760076461993.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Marie-1-scaled-e1760076483794-847x1024.jpeg",
-    "elementor-heading-title": "Marie",
-    "p": "Approx. 5 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/173711745_462912545035197_1350887080322631164_n-e1760076461993.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Marie-1-scaled-e1760076483794-847x1024.jpeg",
+    "id": "Marie",
+    "age": "Approx. 5 years old",
+    "b": "F",
     "p_2": "Sweet and petite, Marie may be small and a bit shy, but she more than makes up for it with her boundless love and endless cuddles. Often overshadowed by more confident cats, she doesn’t get much time in the limelight; but when she does, she makes the most of it.",
     "p_3": "Given the chance, Marie will show you that her true calling is being a lap cat who adores brushing, gentle head pats, and cozy snuggles. Just make sure no other cat steals her spotlight, because when Marie’s in your lap, it’s her time to truly shine."
   }
@@ -47,11 +47,11 @@
   "url": "https://paws.org.ph/esther/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/290144918_603774407675579_3652630422590815183_n-e1760075334804.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Copy-of-Esther-1-scaled-e1760075192430-930x1024.jpg",
-    "elementor-heading-title": "Esther",
-    "p": "Approx. 4 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/290144918_603774407675579_3652630422590815183_n-e1760075334804.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Copy-of-Esther-1-scaled-e1760075192430-930x1024.jpg",
+    "id": "Esther",
+    "age": "Approx. 4 years old",
+    "b": "F",
     "p_2": "During one of PAWS’ monthly kapon outreach programs, an unassuming white cat was found and rescued from an estero, and thus she was since lovingly called Esther. In the years since her rescue, Esther has turned into an elegant and enigmatic cat who loves people and attention.",
     "p_3": "Esther is often one of the first cats who will greet visitors in her area and she’s known to meow at anyone standing nearby, almost as if to say “Please sit down so I can sit on you!” After years at the shelter, this charming kitty is more than ready to find her forever home. We just know someone out there is the perfect match for her affectionate heart."
   }
@@ -61,11 +61,11 @@
   "url": "https://paws.org.ph/athena/",
   "propertyCount": 8,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/20150525_100954-e1760073582384-1024x852.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/1599980396771-scaled-e1760073622919-1024x845.jpg",
-    "elementor-heading-title": "Athena",
-    "p": "Approx. 11 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/20150525_100954-e1760073582384-1024x852.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/1599980396771-scaled-e1760073622919-1024x845.jpg",
+    "id": "Athena",
+    "age": "Approx. 11 years old",
+    "b": "F",
     "p_2": "Athena is one of the oldest cats at PAWS. Originally a Trap-Neuter-Return (TNR) kitten from a partner university, she was admitted into the PAWS shelter back in 2015.",
     "p_3": "Since then, Athena has been hoping to get adopted and to know how it is like to have her own family and home. She’s a feline goddess with her beautiful eyes and often likes to watch the world from a pedestal. Many of her peers seek her infinite wisdom, and she encourages them to take plenty of naps and only eat when they’re hungry as she does.",
     "p_4": "There are times when this sweet senior can be introverted but, she’s just a gentle little lady who’s always open to sharing her prudence and receiving some love in return."
@@ -76,10 +76,10 @@
   "url": "https://paws.org.ph/keri/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/70985403_472634156925958_1140397435806285824_n-e1760069078947.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Keri--1024x892.jpeg",
-    "elementor-heading-title": "Keri",
-    "p": "Approx. 6 years old",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/70985403_472634156925958_1140397435806285824_n-e1760069078947.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Keri--1024x892.jpeg",
+    "id": "Keri",
+    "age": "Approx. 6 years old",
     "b": "F",
     "p_2": "Keri is what you’d get if you turned the phrase “keri lang” into a cat. A quiet introvert, she tends to keep to herself, often overshadowed by her more outgoing area-mates who excitedly approach visitors. But true to her name, Keri doesn’t mind—keri lang.",
     "p_3": "For those who take the time to truly see her, Keri shows herself to be a calm, gentle soul and the perfect quiet companion for a peaceful home."
@@ -90,10 +90,10 @@
   "url": "https://paws.org.ph/pippo/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/Pippo-scaled-e1760068138621-803x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/2-2-scaled-e1760067991451-938x1024.jpg",
-    "elementor-heading-title": "Pippo",
-    "p": "Approx. 12 years old",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/Pippo-scaled-e1760068138621-803x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/2-2-scaled-e1760067991451-938x1024.jpg",
+    "id": "Pippo",
+    "age": "Approx. 12 years old",
     "p_2": "M",
     "p_3": "Pippo was rescued with his littermates back in 2013. Over his long decade at the shelter, he formed a bond with his fellow senior sheltermate Larry, who sadly already passed away in 2025.",
     "p_4": "Now, Pippo just wants to find comfort and companionship in a forever family, both in honor of Larry and because he deserves his own loving home. after all this time. Pippo prefers to stay close by, quietly sitting at your feet or resting at your side. His affection comes in gentle, fleeting moments, always respectful of your space and ready to offer quiet love."
@@ -104,11 +104,11 @@
   "url": "https://paws.org.ph/aida/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/104901648_296142881526275_7580780877573968836_n-1024x472.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-1051-e1760067350984-1024x890.jpg",
-    "elementor-heading-title": "Aida",
-    "p": "Approx. 5 years old",
-    "elementor-element": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/104901648_296142881526275_7580780877573968836_n-1024x472.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-1051-e1760067350984-1024x890.jpg",
+    "id": "Aida",
+    "age": "Approx. 5 years old",
+    "b": "F",
     "p_2": "For many, the COVID pandemic might’ve been a time where everything felt like it was in a standstill. For others, it was defined as a period of change, good or bad. During that time, 3 kittens decided to follow one of PAWS’ adult feral cats, Junior, to the shelter. It was as if they knew that Junior was going to be the one who would be able to get them the help that they needed.",
     "p_3": "At the shelter, the kittens were rehabilitated and have since then been waiting for the right people to adopt them. One of these kittens is Aida, a beautiful white and black cat who has transformed into a rather calm soul who prefers to relax. She gets along with other cats too and is looking forward to having a loving family she can call her own."
   }
@@ -119,10 +119,10 @@
   "propertyCount": 5,
   "data": {
     "ls-is-cached_src": "https://paws.org.ph/wp-content/uploads/2025/10/318505454_1260286414531861_1102590229311402354_n-e1759825551487-1024x909.jpg",
-    "p": "Approx. 3 years old",
-    "p_2": "F",
-    "p_3": "Fajita is the lovely mama of the puspin trio Tortilla, Tamales, and Tostadas. The little family was rescued near a Mexican restaurant in Marikina, which explains their fun and flavorful names!",
-    "p_4": "Fajita is a rather quiet cat who enjoys some alone time, but won’t hesitate to spend that time at your side, like the feline equivalent of the friend who just sits with you in silence. She has a gentle, calming presence that keeps you warm company, so if you appreciate quiet quality time, Fajita is your perfect pair."
+    "age": "Approx. 3 years old",
+    "b": "F",
+    "p_2": "Fajita is the lovely mama of the puspin trio Tortilla, Tamales, and Tostadas. The little family was rescued near a Mexican restaurant in Marikina, which explains their fun and flavorful names!",
+    "p_3": "Fajita is a rather quiet cat who enjoys some alone time, but won’t hesitate to spend that time at your side, like the feline equivalent of the friend who just sits with you in silence. She has a gentle, calming presence that keeps you warm company, so if you appreciate quiet quality time, Fajita is your perfect pair."
   }
 },
 {
@@ -130,11 +130,11 @@
   "url": "https://paws.org.ph/tamales/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/324352900_520783090150296_8405341591446945400_n-e1759823229501.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_7344-scaled-e1759823282436-1024x968.jpg",
-    "elementor-heading-title": "Tamales",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/324352900_520783090150296_8405341591446945400_n-e1759823229501.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_7344-scaled-e1759823282436-1024x968.jpg",
+    "id": "Tamales",
+    "age": "Approx. 2 years old",
+    "b": "M",
     "p_2": "Tamales, Tortilla and Tostadas are a trio of brothers that was rescued near a Mexican restaurant in Marikina, along with mama cat Fajita. Their little familia was weak and emaciated, and thus taken into the shelter back in 2022.",
     "p_3": "Among the three brothers, Tamales is the quiet one. He likes to keep to himself in his own sleepy corner, away from the bustle and hustle. Tamales won’t necessarily go out of his way to greet people, but if you take the time to approach him gently, you’ll find a mellow, sweet boy who will soack up all your attention and affection."
   }
@@ -144,11 +144,11 @@
   "url": "https://paws.org.ph/tostadas/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/324578433_1352075198925677_8281341494057674307_n-e1759823048749.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_4916-scaled-e1759822693884-1024x961.jpg",
-    "elementor-heading-title": "Tostadas",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/324578433_1352075198925677_8281341494057674307_n-e1759823048749.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_4916-scaled-e1759822693884-1024x961.jpg",
+    "id": "Tostadas",
+    "age": "Approx. 2 years old",
+    "b": "M",
     "p_2": "Tostadas is one of the members of the charming feline family that was rescued near a Mexican restaurant in 2022.",
     "p_3": "Among the trio, Tostadas is the most playful when it comes to toys. Whether it’s a whizzing wand or a bouncing ball, he’ll happily chase it around, so long as you keep the game going of course! While he’s not much of a lap cat, he absolutely enjoys a good grooming session and will sit still for you if you offer to brush his fur."
   }
@@ -158,11 +158,11 @@
   "url": "https://paws.org.ph/tortilla/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/Tortilla-2-scaled-e1759822471449-947x1024.jpeg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5435-scaled-e1759822404842-1024x931.jpg",
-    "elementor-heading-title": "Tortilla",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/Tortilla-2-scaled-e1759822471449-947x1024.jpeg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5435-scaled-e1759822404842-1024x931.jpg",
+    "id": "Tortilla",
+    "age": "Approx. 2 years old",
+    "b": "M",
     "p_2": "Tortilla, along with his littermates Tostadas and Tamales and mama cat Fajita, were found limping and emaciated in front of a mexican restaurant in Marikina. Since 2022, Tortilla has been patiently waiting at the shelter for their chance to find a loving forever home.",
     "p_3": "Tortilla is the family’s ultimate lap cat, always eagerly curling up on your legs the moment you sit nearby. Once he’s comfy, he might even gently paw at your leg, politely asking to be picked up and babied."
   }
@@ -172,13 +172,13 @@
   "url": "https://paws.org.ph/tawi/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/20231020_172924-scaled-e1759821178849-1024x946.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5516-scaled-e1759820975346-1024x1007.jpg",
-    "elementor-heading-title": "Tawi",
-    "elementor-element": "Approx. 2 years old",
-    "elementor-element_2": "M",
-    "p": "In 2023, a common yet heartbreaking incident occurred: a stray cat was almost run over at a busy intersection. For this little cat, however, it became a second chance at life when he was rescued.",
-    "p_2": "Tawi was once a quiet and nervous kitten, but he’s since grown into a confident and curious cat. He loves roaming and exploring his surroundings, climbing, and playing with cat toys. This orange-and-white sweetheart gets along well with other cats thanks to his playful nature, and he’s always happy to welcome gentle pets. from hoomans too And if there’s one thing you should know—Tawi is a big foodie and absolutely adores treats! If you’re looking for a companion to spoil with unlimited treatos and play, Tawi is your purrfect buddy!"
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/20231020_172924-scaled-e1759821178849-1024x946.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_5516-scaled-e1759820975346-1024x1007.jpg",
+    "id": "Tawi",
+    "age": "Approx. 2 years old",
+    "b": "M",
+    "p_2": "In 2023, a common yet heartbreaking incident occurred: a stray cat was almost run over at a busy intersection. For this little cat, however, it became a second chance at life when he was rescued.",
+    "p_3": "Tawi was once a quiet and nervous kitten, but he’s since grown into a confident and curious cat. He loves roaming and exploring his surroundings, climbing, and playing with cat toys. This orange-and-white sweetheart gets along well with other cats thanks to his playful nature, and he’s always happy to welcome gentle pets. from hoomans too And if there’s one thing you should know—Tawi is a big foodie and absolutely adores treats! If you’re looking for a companion to spoil with unlimited treatos and play, Tawi is your purrfect buddy!"
   }
 },
 {
@@ -186,11 +186,11 @@
   "url": "https://paws.org.ph/lexus/",
   "propertyCount": 8,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/LEXUS-F-e1759818989972.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/JLP_0007-scaled-e1759819554298-971x1024.jpeg",
-    "elementor-heading-title": "Lexus",
-    "p": "Approx. 6 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/LEXUS-F-e1759818989972.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/JLP_0007-scaled-e1759819554298-971x1024.jpeg",
+    "id": "Lexus",
+    "age": "Approx. 6 years old",
+    "b": "F",
     "p_2": "Lexus is a beautiful, fluffy mama cat who was rescued from a carwash in 2021 after the caretaker passed away, leaving behind 15 cats in need of help. At the time, Lexus had two tiny kittens she fiercely guarded, hissing at anyone who came too close to her little furmily.",
     "p_3": "But with time and gentle care at the shelter, Lexus has come to understand that people can be kind. She’s blossomed into an incredibly sweet and affectionate lap cat who enjoys quiet companionship. Because she tends to tuck herself in the quieter part of the shelter, she’s often overlooked by potential adopters.",
     "p_4": "Now, Lexus is patiently waiting for someone to cherish her for the big, fluffy baby she truly is. She dreams of a forever home where she can curl up in a warm lap, purr contentedly, and finally get the love she has always deserved."
@@ -201,13 +201,13 @@
   "url": "https://paws.org.ph/jepoy/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/53709947_796752197358236_2614791367003471872_n-e1759818053885.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Jepoy-1-scaled-e1759818085395-998x1024.jpeg",
-    "elementor-heading-title": "Jepoy",
-    "elementor-element": "Approx. 6 years old",
-    "elementor-widget-container": "M",
-    "p": "It was in the early months of 2019 when a small white-and-gray kitten wandered in the streets. He was taken in, nourished, and given the care he needed to grow—and grow he did!",
-    "p_2": "Jepoy was already full of wonder as a kitten: he was very curious and viewed the world as a big and fascinating place to explore. He loves it when visitors come by and will often run up for affection, eager for pets and attention. Having transformed into a more mature adult cat now, Jepoy still dreams of discovering this big and wonderful world beyond the shelter, this time hopefully from the comfort of a loving furever home."
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/53709947_796752197358236_2614791367003471872_n-e1759818053885.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Jepoy-1-scaled-e1759818085395-998x1024.jpeg",
+    "id": "Jepoy",
+    "age": "Approx. 6 years old",
+    "b": "M",
+    "p_2": "It was in the early months of 2019 when a small white-and-gray kitten wandered in the streets. He was taken in, nourished, and given the care he needed to grow—and grow he did!",
+    "p_3": "Jepoy was already full of wonder as a kitten: he was very curious and viewed the world as a big and fascinating place to explore. He loves it when visitors come by and will often run up for affection, eager for pets and attention. Having transformed into a more mature adult cat now, Jepoy still dreams of discovering this big and wonderful world beyond the shelter, this time hopefully from the comfort of a loving furever home."
   }
 },
 {
@@ -215,11 +215,11 @@
   "url": "https://paws.org.ph/sampaguita/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/Sampaguita-2-scaled-e1759817845622-876x1024.jpeg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2024-2437-1024x683.jpg",
-    "elementor-heading-title": "Sampaguita",
-    "p": "Approx. 5 years old",
-    "elementor-element": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/Sampaguita-2-scaled-e1759817845622-876x1024.jpeg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2024-2437-1024x683.jpg",
+    "id": "Sampaguita",
+    "age": "Approx. 5 years old",
+    "age": "F",
     "p_2": "Rescued from a busy highway in Novaliches in 2023, Sampaguita was a fragile, dirt-covered kitten who narrowly escaped being run over by a jeepney. Thankfully, a kind rescuer swooped in just in time and fostered her through her early months, helping her adjust to life with both people and other animals.",
     "p_3": "Sampaguita has since blossomed into a calm and gentle soul who treasures quiet moments and soft cuddles. While other cats clamor for attention, she waits patiently—never pushy, always polite. With her serene nature and sweet heart, Sampaguita continues to wait just as patiently for a family to call her own. We hope she finds her special someone who can water her with love every single day."
   }
@@ -229,11 +229,11 @@
   "url": "https://paws.org.ph/julia/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/b3e9f7d9-3177-437f-9101-e2e478a77bb1-e1759817095287-1024x662.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_7289-scaled-e1759817114696-937x1024.jpg",
-    "elementor-heading-title": "Julia",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/b3e9f7d9-3177-437f-9101-e2e478a77bb1-e1759817095287-1024x662.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_7289-scaled-e1759817114696-937x1024.jpg",
+    "id": "Julia",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "One ordinary day turned special when a tortie cat in need was found and rescued. With the care and love she received at the shelter, she blossomed into a beautiful and spirited feline. She was named Julia, a name as graceful and charming as she is.",
     "p_3": "Julia is one fine lady who is extremely energetic and playful. She has no problems being with other feline friends and adores running around or playing hide-and-seek. This pretty tortie is social and curious about her world, though she also appreciates the occasional quiet moment to herself. She is looking for the perfect family who will embrace her high-spirited personality and give her the loving home she deserves"
   }
@@ -243,10 +243,10 @@
   "url": "https://paws.org.ph/gabriella/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/329091309_921024599082155_927257220688469119_n-e1759816707281.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Gabriella-2025-614x1024.jpg",
-    "elementor-heading-title": "Gabriela",
-    "p": "Approx. 3 years old",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/329091309_921024599082155_927257220688469119_n-e1759816707281.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Gabriella-2025-614x1024.jpg",
+    "id": "Gabriela",
+    "age": "Approx. 3 years old",
     "b": "F",
     "p_2": "In 2022, during a free kapon outreach in Cavite, two tiny kittens were rescued and brought to PAWS for treatment. Since then, both have grown into healthy, wonderful young cats with their own unique personalities.",
     "p_3": "Gabriella is the more outgoing of the pair. She’s confident, curious, and loves climbing up to high places. But she also has her softer side where she would rather snuggle and take the time to relax with quiet company. This beautiful tabby girl got a taste of family life during her short time in foster care, and now she’s patiently hoping to feel that love again when the perfect, furever family finally finds her."
@@ -257,13 +257,13 @@
   "url": "https://paws.org.ph/siegfried-ziggy/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/c202bcbf-e416-43f3-81c8-727ebce950ec-scaled-e1759816392633-1024x790.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_8538-scaled-e1759816376123-1024x1024.jpg",
-    "elementor-heading-title": "Siegfried “Ziggy”",
-    "elementor-element": "Approx. 2 years old",
-    "elementor-widget-container": "F",
-    "p": "Siegfried or ‘Ziggy’ was cruelly dumped with her three sisters in a cardboard box tightly sealed with duct tape along a busy road. Magically, the four confined kittens not only managed to escape the box and cry out for help; they also tried to escape during the ride to their kind rescuer’s home! Their daring escape acts earned them names inspired by famous magicians, with Ziggy forming a close bond with her sister Roy, just like the legendary duo Siegfried & Roy who were known for taming white tigers.",
-    "p_2": "Since their rescue, Roy’s grown into the sweetest, spunkiest, and most sociable girl. She gets along effortlessly with everyone she meets, her bubbly personality making her a delight to be around. Her long face makes her a unique beauty, and this joyful girl is equal parts smart and charming; she just loves to snuggle up in your lap and bask in your attention."
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/c202bcbf-e416-43f3-81c8-727ebce950ec-scaled-e1759816392633-1024x790.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_8538-scaled-e1759816376123-1024x1024.jpg",
+    "id": "Siegfried “Ziggy”",
+    "age": "Approx. 2 years old",
+    "b": "F",
+    "p_2": "Siegfried or ‘Ziggy’ was cruelly dumped with her three sisters in a cardboard box tightly sealed with duct tape along a busy road. Magically, the four confined kittens not only managed to escape the box and cry out for help; they also tried to escape during the ride to their kind rescuer’s home! Their daring escape acts earned them names inspired by famous magicians, with Ziggy forming a close bond with her sister Roy, just like the legendary duo Siegfried & Roy who were known for taming white tigers.",
+    "p_3": "Since their rescue, Roy’s grown into the sweetest, spunkiest, and most sociable girl. She gets along effortlessly with everyone she meets, her bubbly personality making her a delight to be around. Her long face makes her a unique beauty, and this joyful girl is equal parts smart and charming; she just loves to snuggle up in your lap and bask in your attention."
   }
 },
 {
@@ -271,11 +271,11 @@
   "url": "https://paws.org.ph/roy/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/4378b733-cfb9-4b42-80ae-dcb778fae907-scaled-e1759815876660-1024x678.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2025-0181-scaled-e1759815901241-1024x945.jpeg",
-    "elementor-heading-title": "Roy",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/4378b733-cfb9-4b42-80ae-dcb778fae907-scaled-e1759815876660-1024x678.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2025-0181-scaled-e1759815901241-1024x945.jpeg",
+    "id": "Roy",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "Roy was cruelly abandoned with her three sisters in 2024; they were sealed tightly inside a cardboard box and left grasping for air along a busy road in Quezon City. Miraculously, the kittens managed to pop their heads through the thick duct-tape seals and cry out for help just in time. Even on the ride to their rescuer’s home, they kept escaping from the box, determined to survive from the very start.",
     "p_3": "Because of their great escape acts, they were named after famous magicians, with Roy forming an especially close bond with her sister Siegfried, just like the iconic illusionist duo known for taming white tigers. Roy is an intelligent and sweet cat that will never fail to greet you when you enter the cattery. Friendly and polite with a pretty face, Roy will definitely leave you spellbound by her dazzling looks and graceful personality."
   }
@@ -284,37 +284,37 @@
   "url": "https://paws.org.ph/orange/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/Orange-1024x768.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_3809-scaled-e1759814979617-1024x1015.jpg",
-    "elementor-heading-title": "Orange",
-    "elementor-element": "Approx. 4 years old",
-    "elementor-widget-container": "M",
-    "p": "When Orange was first found in 2021, he was a suspected hit-and-run victim and was dragging both of his hind legs. Thanks to the dedicated care of the PAWS team, he made a remarkable recovery. But now, years after his rescue, Orange faces an even harder battle: finding someone who will finally look past his past and say, “I’ll be your home.”",
-    "p_2": "No rescue, especially one who has overcome so much, should have to wait so long for something so simple as love and belonging. Orange is ready to share all the love and affection he’s had to keep to himself all these years, and he’s ready to shower it all onto a family who would be willing to open their hearts to him"
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/Orange-1024x768.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/IMG_3809-scaled-e1759814979617-1024x1015.jpg",
+    "id": "Orange",
+    "age": "Approx. 4 years old",
+    "b": "M",
+    "p_2": "When Orange was first found in 2021, he was a suspected hit-and-run victim and was dragging both of his hind legs. Thanks to the dedicated care of the PAWS team, he made a remarkable recovery. But now, years after his rescue, Orange faces an even harder battle: finding someone who will finally look past his past and say, “I’ll be your home.”",
+    "p_3": "No rescue, especially one who has overcome so much, should have to wait so long for something so simple as love and belonging. Orange is ready to share all the love and affection he’s had to keep to himself all these years, and he’s ready to shower it all onto a family who would be willing to open their hearts to him"
   }
 },{
   "timestamp": "2025-10-27T14:26:39.727Z",
   "url": "https://paws.org.ph/dasurv/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/20230722_100526-scaled-e1759809618648-890x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/Dasurv-1024x683.jpg",
-    "elementor-heading-title": "Dasurv",
-    "elementor-element": "Approx. 2 years old",
-    "elementor-element_2": "F",
-    "p": "One stormy day in 2023, Dasurv was rescued from a street drain with her 4 other siblings, but sadly she was the only one who survived. As if that wasn’t enough, this tabby girl also needed repeated treatments for respiratory infections. Having overcome so much struggles, she showed what a tough fighter she is and how deserving she is to live, earning her the name “Dasurv”.",
-    "p_2": "This little fighter wants to make sure she can trust you before letting you pet her and likes getting to know people at her own pace. Dasurv is looking for a loving home where she could be reminded that it is okay to take up space in this world and a furmily who will slowly allow her to get out of her shell."
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/20230722_100526-scaled-e1759809618648-890x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/Dasurv-1024x683.jpg",
+    "id": "Dasurv",
+    "age": "Approx. 2 years old",
+    "b": "F",
+    "p_2": "One stormy day in 2023, Dasurv was rescued from a street drain with her 4 other siblings, but sadly she was the only one who survived. As if that wasn’t enough, this tabby girl also needed repeated treatments for respiratory infections. Having overcome so much struggles, she showed what a tough fighter she is and how deserving she is to live, earning her the name “Dasurv”.",
+    "p_3": "This little fighter wants to make sure she can trust you before letting you pet her and likes getting to know people at her own pace. Dasurv is looking for a loving home where she could be reminded that it is okay to take up space in this world and a furmily who will slowly allow her to get out of her shell."
   }
 },{
   "timestamp": "2025-10-27T14:27:09.287Z",
   "url": "https://paws.org.ph/carla/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/10/277912243_1160348514505998_3673932107725111522_n-e1759809085777.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2025-0299-scaled-e1759809056357-907x1024.jpg",
-    "elementor-heading-title": "Carla",
-    "p": "Approx. 3 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/10/277912243_1160348514505998_3673932107725111522_n-e1759809085777.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/10/PAWS-2025-0299-scaled-e1759809056357-907x1024.jpg",
+    "id": "Carla",
+    "age": "Approx. 3 years old",
+    "b": "F",
     "p_2": "Carla was rescued along a perilous stretch of road alongside her littermates where they were in danger of being run over by speeding vehicles. She was fostered in a home where she grew to be a sweet and playful kitty.",
     "p_3": "A small yet stunning tuxedo cat, Carla is one of the first ones to come at you as soon as you walk in with a wand toy in your hands. She’s not afraid to run around, express her excitment, roll on her back and use her limbs so long as she catches her target! Her delightful antics which can make anyone coo at how adorable she is and her affectionate side is sure to be a joy in any home."
   }
@@ -324,11 +324,11 @@
   "url": "https://paws.org.ph/spade/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/Spade-731x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Spade-4-scaled-e1752223048881-1024x1005.jpg",
-    "elementor-heading-title": "Spade",
-    "p": "Approx. 3 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/Spade-731x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Spade-4-scaled-e1752223048881-1024x1005.jpg",
+    "id": "Spade",
+    "age": "Approx. 3 years old",
+    "b": "M",
     "p_2": "Spade may have been dealt a rough hand—neglected, abandoned, and left tied to a tree at the illegal POGO Boss Mansion—but this gentle giant never let that define him. Despite everything, he still holds onto hope that kindness and love are still in the cards for him.",
     "p_3": "Though his size and stoic looks may seem intimidating at first, Spade is actually a big softie. He lives for gentle pets and lots of play, and he’s always ready to show his affectionate side to those who take a chance on him. If you’re looking for a loyal companion with a heart of gold, Spade is definitely your winning pick!"
   }
@@ -338,11 +338,11 @@
   "url": "https://paws.org.ph/snow-white/",
   "propertyCount": 8,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/20210311_165612-scaled-e1752215108196-1024x949.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Snow-White-683x1024.jpg",
-    "elementor-heading-title": "Snow white",
-    "p": "Approx. 4 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/20210311_165612-scaled-e1752215108196-1024x949.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Snow-White-683x1024.jpg",
+    "id": "Snow white",
+    "age": "Approx. 4 years old",
+    "b": "F",
     "p_2": "It was one day during the COVID pandemic when PAWS rescued an extremely malnourished dog in need named Menchie. Little did the team know, Menchie turned out to be pregnant, and she shortly gave birth to 3 puppies! Snow White is one of Menchie’s kids still waiting for a home of her own.",
     "p_3": "Snow White used to love sticking by her mom, but since her mom was adopted, she’s had to learn to put her big girl pants on and face the world with courage. She’s rather reserved and prefers to stay in quiet corners, but she does like to socialize with her other sheltermates from time to time.",
     "p_4": "We know sweet Snow White will thrive with close companionship, and we believe she’ll find that in a forever family who can give her the love she deserves.She needs someone who will be patient enough to let her open up at her own pace, and with time, Snow White will surely show you all the love she has to give in return too."
@@ -353,11 +353,11 @@
   "url": "https://paws.org.ph/jas/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/458320017_408622845583663_2687138792886467212_n-768x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Jas-6-1-scaled-e1752214507774-1024x934.jpg",
-    "elementor-heading-title": "Jas",
-    "p": "Approx. 3 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/458320017_408622845583663_2687138792886467212_n-768x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Jas-6-1-scaled-e1752214507774-1024x934.jpg",
+    "id": "Jas",
+    "age": "Approx. 3 years old",
+    "b": "M",
     "p_2": "Jas was rescued in September 2024 along Jose Abad Santos, thus his name JAS. Initially fearful of people, it took many hours of patient coaxing for Jas to finally agree to be rescued.",
     "p_3": "On the larger side, this playful and expressive dog takes some time to adjust to strangers. However, once he acclimates, Jas gives the best hugs and kisses. He enjoys big open spaces where he can run to his heart’s desire. Though a big dog, Jas is a puppy at heart who thrives on attention and craves company."
   }
@@ -366,11 +366,11 @@
   "url": "https://paws.org.ph/akiha/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/25445113_10212866012878298_661324778_o-e1752213918724-1024x831.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_5610-scaled-e1752214721480-1024x898.jpg",
-    "elementor-heading-title": "Akiha",
-    "p": "Approx. 10 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/25445113_10212866012878298_661324778_o-e1752213918724-1024x831.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_5610-scaled-e1752214721480-1024x898.jpg",
+    "id": "Akiha",
+    "age": "Approx. 10 years old",
+    "b": "F",
     "p_2": "Akiha was rescued in 2017 stranded and atop a giant skyway column by the highway. She was scared and mistrusting of humans after being cruelly abandoned that way, but PAWS, with the help of the Muntinlupa Special Rescue Unit, was determined to give her the safety and security she deserves.",
     "p_3": "Now, Akiha is a lively senior dog that loves to go on walks. She can be wary of strangers at first, but all she needs is someone who can treat her with patience and kindness so she can open up. Once she gets to know you, you’ll meet the energetic girl she is, spinning in excitement for a chance to stroll along by your side."
   }
@@ -380,12 +380,12 @@
   "url": "https://paws.org.ph/chance/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/Chance-rescue-819x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_4886-e1752213493592-1024x1001.jpg",
-    "elementor-heading-title": "Chance",
-    "p": "Approx. 3 years old",
-    "elementor-widget-container": "M",
-    "goog-inline-block": "Chance was one of the many animals rescued from the abandoned POGO Mansion in 2024. He was found chained under a generator with no food or water, so he understandably had trust issues back then. But after lots of care at PAWS, Chance has recovered from that traumatic experience and become such a cool and collected dog. If you’re keen to find a dog to care for who won’t say no to dressing up while on walks (yep, he’s a pro!), take a chance on Chance!"
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/Chance-rescue-819x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_4886-e1752213493592-1024x1001.jpg",
+    "id": "Chance",
+    "age": "Approx. 3 years old",
+    "b": "M",
+    "p_2": "Chance was one of the many animals rescued from the abandoned POGO Mansion in 2024. He was found chained under a generator with no food or water, so he understandably had trust issues back then. But after lots of care at PAWS, Chance has recovered from that traumatic experience and become such a cool and collected dog. If you’re keen to find a dog to care for who won’t say no to dressing up while on walks (yep, he’s a pro!), take a chance on Chance!"
   }
 },
 {
@@ -393,11 +393,11 @@
   "url": "https://paws.org.ph/thormund/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/THOMUND.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/54-scaled-e1752206252885-1024x1024.jpg",
-    "elementor-heading-title": "Thormund",
-    "p": "Approx. 7 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/THOMUND.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/54-scaled-e1752206252885-1024x1024.jpg",
+    "id": "Thormund",
+    "age": "Approx. 7 years old",
+    "b": "M",
     "p_2": "Thormund was rescued in 2020 with a wire collar deeply embedded in his neck, leaving painful lacerations that took lots of time and care to heal. Now fully recovered, he’s turned that painful past into a love for neck scratches and will often eagerly press against his kennel with a wagging just to ask for a little affection.",
     "p_3": "Energetic and full of life, Thormund thrives on movement and play. The shelter, with its limited space, is far from ideal for a dog like him—especially as he grows older and dreams of wide-open spaces to run around and explore. With a heart as big as his sturdy frame, Thormund is ready to give all his love to someone willing to take a chance on him. He’s not just looking for a home—he’s waiting for his life’s best friend."
   }
@@ -407,11 +407,11 @@
   "url": "https://paws.org.ph/yumie/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151628-scaled-e1752205139241-1024x954.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Triplet-1.3JPG-1024x889.jpg",
-    "elementor-heading-title": "Yumie",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151628-scaled-e1752205139241-1024x954.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Copy-of-Triplet-1.3JPG-1024x889.jpg",
+    "id": "Yumie",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "Yumie was rescued alongside her siblings Agie, Basie, and Rellie and their mom, Lot. Their little family was very skittish at first, but with time and care, they began to trust people, so much so that her mom Lot and brother Basie were able to find their own forever homes.",
     "p_3": "Now, Yumie waits for her turn to be chosen. Yumie has mild curls and two upright ears, making her appear the most alert out of the siblings. She’s the most energetic of the bunch and happily greets the people she knows. She takes a bit of time to warm up to new faces, and the best way to win her trust is by giving he boiled chicken liver treats—her absolute favorite!"
   }
@@ -421,11 +421,11 @@
   "url": "https://paws.org.ph/rellie/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151410-scaled-e1752204442589-978x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Adopt_rellie-1024x961.jpg",
-    "elementor-heading-title": "Rellie",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151410-scaled-e1752204442589-978x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Adopt_rellie-1024x961.jpg",
+    "id": "Rellie",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "One of a set of quadruplets that may confuse the untrained eye, Rellie was rescued as a puppy together with her mom and identical siblings. Now, Rellie is waiting with her sisters Agie and Yumie at the PAWS shelter for their turn to be adopted.",
     "p_3": "Rellie has the curliest fur out of the siblings, and has one adorably flopped ear. She’s an energetic girl who excitedly lights up when people visit her area. Sometimes, she shows a more shy side when she’s taken out for walks, as she often seeks the comfort of her safe space. That’s why we hope Rellie can find a loving home to call her own soon—a place where she can always feel happy, confident, and comfortable."
   }
@@ -435,11 +435,11 @@
   "url": "https://paws.org.ph/tiamo/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/20230519_155842-scaled-e1752019211799-1024x966.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/PAWS-2024-2834-e1752019349970-1006x1024.jpg",
-    "elementor-heading-title": "Tiamo",
-    "p": "Approx. 4 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/20230519_155842-scaled-e1752019211799-1024x966.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/PAWS-2024-2834-e1752019349970-1006x1024.jpg",
+    "id": "Tiamo",
+    "age": "Approx. 4 years old",
+    "b": "F",
     "p_2": "Tiamo was rescued in May 2023 along Quirino Avenue. She was a picture of skin and bones, unable to stand or even move a muscle from her malnourishment. Her journey back to health is a beautiful reminder of what love, patience, and care can do, as she’s now one of the happiest, healthiest girl’s we’ve ever had.",
     "p_3": "Now one of the chonkiest dogs at the shelter, Tiamo lives for treats and belly rubs. She enjoys her toys but food is life for her. Tiamo loves being the center of attention and has plenty of affection to give in return, so if you have a surplus of affection (and treats) to spare, get ready to say ti amo to Tiamo!"
   }
@@ -449,11 +449,11 @@
   "url": "https://paws.org.ph/josiah/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_9316-scaled-e1752018871105-878x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/Josiah-576x1024.jpg",
-    "elementor-heading-title": "Josiah",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "M",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_9316-scaled-e1752018871105-878x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/Josiah-576x1024.jpg",
+    "id": "Josiah",
+    "age": "Approx. 2 years old",
+    "b": "M",
     "p_2": "Josiah and his siblings were rescued as puppies with their mama dog Magdalena from a nun’s convent in 2023.",
     "p_3": "Shyness runs in their family, and Josiah shares that same soft-spoken nature. Though he may take a little time to warm up, once he does open up to you, you’ll discover how sweet, gentle, and obedient he is. He often greets his favorite people with the biggest smile, along with the floppiest, most endearing ears you’ll ever see!"
   }
@@ -463,11 +463,11 @@
   "url": "https://paws.org.ph/ezra/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_9328-scaled-e1752018252679-861x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_0164-scaled-e1752018525914-1024x990.jpg",
-    "elementor-heading-title": "Ezra",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_9328-scaled-e1752018252679-861x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_0164-scaled-e1752018525914-1024x990.jpg",
+    "id": "Ezra",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "Mama dog Magdalena and her litter were rescued from a nun’s convent in Gilmore back in 2023. Among her litter is the gentle Ezra.",
     "p_3": "Shyness seems to run in their family, as Ezra, like both her brother Josiah and mom Magda, is one of the more soft-spoken and quieter dogs in the shelter. She tends to stay in the background when next to the more lively and confident dogs, however, Ezra will always greet you with a smile and has the sweet est side to her that she shows anyone who’s willing to seek her out."
   }
@@ -477,11 +477,11 @@
   "url": "https://paws.org.ph/dottie/",
   "propertyCount": 8,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230720_150222-scaled-e1752017718475-1000x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_4569-scaled-e1752017749582-967x1024.jpg",
-    "elementor-heading-title": "Dottie",
-    "p": "Approx. 4 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230720_150222-scaled-e1752017718475-1000x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_4569-scaled-e1752017749582-967x1024.jpg",
+    "id": "Dottie",
+    "age": "Approx. 4 years old",
+    "b": "F",
     "p_2": "Dottie was found tied up and alone in a dump space, likely abandoned because she had severe skin problems. Her condition was so heartbreaking that PAWS volunteers at the mission, despite being en route to rescue another dog, couldn’t just turn their backs on her—they knew she still had a fighting chance and rescued her.",
     "p_3": "Now, Dottie stands as a beacon of recovery and a true testament to the power of love, care, and effort. She’s still a bit hesitant towards new faces, but she’s definitely come a long way and is no stranger to affection once she knows you can be a safe space.",
     "p_4": "He condition causes some dryness on her skin, but caring for her is as easy as caring for any other: regular baths, a little moisturizer here and there, and most importantly a loving family’ll embrace her for the calm and gentle companion that she is is truly all he needs to live her best life."
@@ -492,13 +492,13 @@
   "url": "https://paws.org.ph/audi/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/20240520_081447-scaled-e1751952901318-1024x891.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_5561-scaled-e1751953878774-926x1024.jpg",
-    "elementor-heading-title": "Audi",
-    "elementor-element": "Approx. 4 years old",
-    "elementor-widget-container": "M",
-    "p": "Audi got his name after being rescued near a car dealership in 2024, and he’s been waiting at the shelter ever since for someone will finally take him on the ride to his furever home.",
-    "p_2": "Though he can be a little skittish at first, all he needs is a bit of quality time to show how sweet, friendly, and full of affection he is. If you’re looking for a lovable dog with a heart as big as his belly, Audi’s the one for you!"
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/20240520_081447-scaled-e1751952901318-1024x891.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_5561-scaled-e1751953878774-926x1024.jpg",
+    "id": "Audi",
+    "age": "Approx. 4 years old",
+    "b": "M",
+    "p_2": "Audi got his name after being rescued near a car dealership in 2024, and he’s been waiting at the shelter ever since for someone will finally take him on the ride to his furever home.",
+    "p_3": "Though he can be a little skittish at first, all he needs is a bit of quality time to show how sweet, friendly, and full of affection he is. If you’re looking for a lovable dog with a heart as big as his belly, Audi’s the one for you!"
   }
 },
 {
@@ -506,13 +506,13 @@
   "url": "https://paws.org.ph/andrew/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/Andrew-Before-768x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/ADOPT_ANDREW-scaled-e1751947215715-925x1024.jpg",
-    "elementor-heading-title": "Andrew",
-    "elementor-element": "Approx. 3 years old",
-    "elementor-widget-container": "M",
-    "p": "Quirky little Andrew was battling canine distemper when he was rescued at Antipolo. He’s since emerged a brave survivor, stronger than ever.",
-    "p_2": "On top of being a silly little guy with his playful behavior, Andrew loves going on good walks where he can shake out that energy and be his curious self. Andrew won’t pass up a petting session too, always letting his inner puppy shine for you! If you’re looking for a sweet, spirited companion, then look no further than Andrew!"
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/Andrew-Before-768x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/ADOPT_ANDREW-scaled-e1751947215715-925x1024.jpg",
+    "id": "Andrew",
+    "age": "Approx. 3 years old",
+    "b": "M",
+    "p_2": "Quirky little Andrew was battling canine distemper when he was rescued at Antipolo. He’s since emerged a brave survivor, stronger than ever.",
+    "p_3": "On top of being a silly little guy with his playful behavior, Andrew loves going on good walks where he can shake out that energy and be his curious self. Andrew won’t pass up a petting session too, always letting his inner puppy shine for you! If you’re looking for a sweet, spirited companion, then look no further than Andrew!"
   }
 },
 {
@@ -520,11 +520,11 @@
   "url": "https://paws.org.ph/agie/",
   "propertyCount": 7,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151623-scaled-e1751945653726-859x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/07/482262188_1060640102763852_8382198449826676100_n-e1751945926935-671x1024.jpg",
-    "elementor-heading-title": "Agie",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/07/IMG_20230603_151623-scaled-e1751945653726-859x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/07/482262188_1060640102763852_8382198449826676100_n-e1751945926935-671x1024.jpg",
+    "id": "Agie",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "While her mom Lot and brother Basie have already been adopted, Agie and her two sisters still await their turn for a home at the shetler.",
     "p_3": "Agie is the most shy out of the quadruplets, but she’s gained a lot more confidence thanks to her doggie training sessions with our volunteers. She loves spending time at outdoors, and being the most curious of the bunch, she likes to sniff around and explore. Sometimes, she’ll even dig and pick up random things from the ground to show you– it’s her little love language!"
   }
@@ -534,11 +534,11 @@
   "url": "https://paws.org.ph/smiley/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/03/20230324_082839-scaled-e1741399732823-1024x822.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/03/Smiley-1-scaled-e1741399385863-1024x967.jpeg",
-    "elementor-heading-title": "Smiley",
-    "p": "Approx. 1 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/03/20230324_082839-scaled-e1741399732823-1024x822.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/03/Smiley-1-scaled-e1741399385863-1024x967.jpeg",
+    "id": "Smiley",
+    "age": "Approx. 1 years old",
+    "b": "F",
     "p_2": "Smiley is a small cat with a lot of energy. Bursting at the seams with playful energy, smiley is excitable and mischevious, and needs someone who can match her energy and mellow her out."
   }
 },
@@ -547,12 +547,12 @@
   "url": "https://paws.org.ph/vicky/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/03/287373050_734202337889693_4848422666981672914_n-e1741398360120-995x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/03/Vicky-1-scaled-e1741398106185-1024x939.jpeg",
-    "elementor-heading-title": "Vicky",
-    "elementor-element": "Approx. 2 years old",
-    "elementor-widget-container": "F",
-    "p": "Vicky may seem a little shy at first, but getting to know her will reveal a fun and playful personality. You’ll be captivated by her expressive eyes, and find that she loves to hang out and play."
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/03/287373050_734202337889693_4848422666981672914_n-e1741398360120-995x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/03/Vicky-1-scaled-e1741398106185-1024x939.jpeg",
+    "id": "Vicky",
+    "age": "Approx. 2 years old",
+    "b": "F",
+    "p_2": "Vicky may seem a little shy at first, but getting to know her will reveal a fun and playful personality. You’ll be captivated by her expressive eyes, and find that she loves to hang out and play."
   }
 },
 {
@@ -560,12 +560,12 @@
   "url": "https://paws.org.ph/fe/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/03/104339927_569535480658425_3716783509594959884_n-scaled-e1741397759324-1024x936.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/03/Fe-2-scaled-e1741397530872-933x1024.jpeg",
-    "elementor-heading-title": "Fe",
-    "p": "Approx. 5 years old",
-    "elementor-widget-container": "F",
-    "span": "Fe may be a little skittish at first, but is very sweet once you get to know her. She may play hard to get, but once you come up to her, she will gladly accept your love and pets."
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/03/104339927_569535480658425_3716783509594959884_n-scaled-e1741397759324-1024x936.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/03/Fe-2-scaled-e1741397530872-933x1024.jpeg",
+    "id": "Fe",
+    "age": "Approx. 5 years old",
+    "b": "F",
+    "p_2": "Fe may be a little skittish at first, but is very sweet once you get to know her. She may play hard to get, but once you come up to her, she will gladly accept your love and pets."
   }
 },
 {
@@ -573,11 +573,11 @@
   "url": "https://paws.org.ph/lorna/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/03/104294514_311023136557650_6620853346508991029_n-scaled-e1741396690839-759x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/03/Lorna-2-scaled-e1741396627873-996x1024.jpeg",
-    "elementor-heading-title": "Lorna",
-    "p": "Approx. 5 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/03/104294514_311023136557650_6620853346508991029_n-scaled-e1741396690839-759x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/03/Lorna-2-scaled-e1741396627873-996x1024.jpeg",
+    "id": "Lorna",
+    "age": "Approx. 5 years old",
+    "b": "F",
     "p_2": "Lorna is an adorable tricolor cat with a cute, black nose, and a fur pattern that gives her some fashionable bangs. She’s a sweet girl that is chill and ready for some love."
   }
 },
@@ -586,11 +586,11 @@
   "url": "https://paws.org.ph/therese-2/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2025/03/Adopt-Therese-e1741396036999-1024x670.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2025/03/PAWS-Therese-e1741395852966-1024x797.jpg",
-    "elementor-heading-title": "Therese",
-    "p": "Approx. 13 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2025/03/Adopt-Therese-e1741396036999-1024x670.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2025/03/PAWS-Therese-e1741395852966-1024x797.jpg",
+    "id": "Therese",
+    "age": "Approx. 13 years old",
+    "b": "F",
     "p_2": "Therese is a beautiful tortie girl with a youthful heart. This little lola is an affectionate and friendly sweetheart with so much love to give. Therese will always give her all when snuggling up to you, showing you all the love she can with every inch of her body. Looking for some prescription glasses and a cozy retirement, Therese is a senior cat full of love and hope."
   }
 },
@@ -599,12 +599,12 @@
   "url": "https://paws.org.ph/mateo/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2024/12/370139473_663824105835784_3132070615503840819_n-e1733543871784-1024x691.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2024/12/Adopt-Mateo-1024x1024.jpg",
-    "elementor-heading-title": "Mateo",
-    "p": "Approx. 7 years old",
-    "elementor-widget-container": "M",
-    "span": "Mateo is a sweet and gentle soul. He can be quiet and timid, but he will never say no to walks. Best yet, he’s an aspin that’s trainable with a little bit of help from treats! We understand that some dog-parents can’t keep up with a high-energy dog, so if you’re feeling seen and are looking for a kind companion to share your home with, Mateo might just be the perfect match for you!"
+    "img1": "https://paws.org.ph/wp-content/uploads/2024/12/370139473_663824105835784_3132070615503840819_n-e1733543871784-1024x691.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2024/12/Adopt-Mateo-1024x1024.jpg",
+    "id": "Mateo",
+    "age": "Approx. 7 years old",
+    "b": "M",
+    "p_2": "Mateo is a sweet and gentle soul. He can be quiet and timid, but he will never say no to walks. Best yet, he’s an aspin that’s trainable with a little bit of help from treats! We understand that some dog-parents can’t keep up with a high-energy dog, so if you’re feeling seen and are looking for a kind companion to share your home with, Mateo might just be the perfect match for you!"
   }
 },
 {
@@ -613,10 +613,10 @@
   "propertyCount": 6,
   "data": {
     "attachment-medium_src": "https://paws.org.ph/wp-content/uploads/2024/05/278060564_349295907155829_5531989876024224378_n-e1715307022701-225x300.jpg",
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2024/05/Alice-2-1-e1719042275479-1024x768.jpeg",
-    "elementor-heading-title": "Alice",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2024/05/Alice-2-1-e1719042275479-1024x768.jpeg",
+    "id": "Alice",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "Cuteness overload! if you have tons of time to spend playing with Alice with plenty of curiosity, and if you want to shower one with love and affection, adopt Alice. PAWS needs to find her a good home, a fur-ever home, not a home that loves her while she’s little. When she’s a full-grown cat and more mature, Alice will still be by your side… through thick and thin."
   }
 },
@@ -625,12 +625,12 @@
   "url": "https://paws.org.ph/tiki/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2023/12/adopt-tiki1.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2023/12/Adopt-Tiki.jpg",
-    "elementor-heading-title": "Tiki",
-    "elementor-element": "Approx. 3 years old",
-    "elementor-widget-container": "M",
-    "p": "Thanks to a concerned citizen’s report, Tiki was not killed for “pulutan” (food usually paired with alcoholic drink). Barangay officers foiled plans of construction workers who were about to slaughter him and criminal charges were filed by PAWS. Tiki remained a sweet, loving dog all throughout his ordeal -where he was only given scraps for food and drank rain water from a puddle near his chained area. When he was rescued, he wagged his tail non-stop and was very excited to get into the vehicle that would take him to the PAWS shelter. Tiki holds no grudges and wants to be friends with everyone he meets for the first time. he epitomizes the saying. ” To err is human, to forgive, canine” and reminds us why we should all work together to end the cruel and illegal dog meat trade in our country."
+    "img1": "https://paws.org.ph/wp-content/uploads/2023/12/adopt-tiki1.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2023/12/Adopt-Tiki.jpg",
+    "id": "Tiki",
+    "age": "Approx. 3 years old",
+    "b": "M",
+    "p_2": "Thanks to a concerned citizen’s report, Tiki was not killed for “pulutan” (food usually paired with alcoholic drink). Barangay officers foiled plans of construction workers who were about to slaughter him and criminal charges were filed by PAWS. Tiki remained a sweet, loving dog all throughout his ordeal -where he was only given scraps for food and drank rain water from a puddle near his chained area. When he was rescued, he wagged his tail non-stop and was very excited to get into the vehicle that would take him to the PAWS shelter. Tiki holds no grudges and wants to be friends with everyone he meets for the first time. he epitomizes the saying. ” To err is human, to forgive, canine” and reminds us why we should all work together to end the cruel and illegal dog meat trade in our country."
   }
 },
 {
@@ -638,11 +638,11 @@
   "url": "https://paws.org.ph/mita/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2023/08/313914846_1564596547346218_4892034563403829429_n-e1692925748132-902x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2023/08/1691207856784-scaled-e1692925591960-931x1024.jpg",
-    "elementor-heading-title": "Mita",
-    "p": "Approx. 5  years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2023/08/313914846_1564596547346218_4892034563403829429_n-e1692925748132-902x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2023/08/1691207856784-scaled-e1692925591960-931x1024.jpg",
+    "id": "Mita",
+    "age": "Approx. 5  years old",
+    "b": "F",
     "p_2": "PAWS rescued Mita at Ermita Center after she had wounds in some parts of her body.  A small dog who is quiet and adorably well-behaved, Mita is an Aspin that shows discreet affection and is perfect for someone who wants a well-rounded, well-behaved companion."
   }
 },
@@ -651,11 +651,11 @@
   "url": "https://paws.org.ph/magdalena/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2023/08/352785284_176477661783185_1184777540119750259_n-e1692924888808-1024x911.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2023/08/DSC_0590-scaled-e1692924690740-953x1024.jpg",
-    "elementor-heading-title": "Magdalena",
-    "p": "Approx. 2 years old",
-    "elementor-widget-container": "F",
+    "img1": "https://paws.org.ph/wp-content/uploads/2023/08/352785284_176477661783185_1184777540119750259_n-e1692924888808-1024x911.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2023/08/DSC_0590-scaled-e1692924690740-953x1024.jpg",
+    "id": "Magdalena",
+    "age": "Approx. 2 years old",
+    "b": "F",
     "p_2": "Magdalena or sometimes we called her “Magda” was rescued from Gilmore at Carmel of St. Therese of the Child Jesus along with her 4 babies namely: Josiah, Jonas and Ezra, Ezekiel. She’s small aspin with Bob tail. Magda is friendly and well-behaved dog that fits to your house."
   }
 },
@@ -664,12 +664,12 @@
   "url": "https://paws.org.ph/ig/",
   "propertyCount": 6,
   "data": {
-    "attachment-large_src": "https://paws.org.ph/wp-content/uploads/2023/08/IMG_20220812_091712-scaled-e1692261983396-897x1024.jpg",
-    "attachment-large_src_2": "https://paws.org.ph/wp-content/uploads/2023/08/PAWS-9944-e1693643863185-1024x1024.jpg",
-    "elementor-heading-title": "IG",
-    "elementor-element": "Approx. 2 years old",
-    "elementor-widget-container": "M",
-    "p": "IG is photogenic, We named him after a social media platform. IG was rescued by the caretakers at our shelter after he followed them home one day and he also has eye misalignment that makes him more cute.  it’s your turn to be fortunate to have IG in your family. We’ll be ready with the cat toys; you be ready to play. IG is here, waiting."
+    "img1": "https://paws.org.ph/wp-content/uploads/2023/08/IMG_20220812_091712-scaled-e1692261983396-897x1024.jpg",
+    "img2": "https://paws.org.ph/wp-content/uploads/2023/08/PAWS-9944-e1693643863185-1024x1024.jpg",
+    "id": "IG",
+    "age": "Approx. 2 years old",
+    "b": "M",
+    "p_2": "IG is photogenic, We named him after a social media platform. IG was rescued by the caretakers at our shelter after he followed them home one day and he also has eye misalignment that makes him more cute.  it’s your turn to be fortunate to have IG in your family. We’ll be ready with the cat toys; you be ready to play. IG is here, waiting."
   }
 }
 ]

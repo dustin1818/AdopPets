@@ -2,14 +2,22 @@ import { useState } from "react";
 import { useParams } from "react-router-dom";
 import Navigation from "./Navigation";
 import { Button } from "@/components/ui/button";
+import Modal from "../components/react-ui/Modal";
 import PetDetails from "../../assets/PetDetails.json";
 
 function PetDetail() {
   const { id } = useParams();
   const [petDetails, setPetDetails] = useState(PetDetails);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedImage, setSelectedImage] = useState("");
 
   const filteredPet = petDetails.filter((pet) => pet.data.id === id);
   console.log(filteredPet);
+
+  const handleImageClick = (imageSrc) => {
+    setSelectedImage(imageSrc);
+    setIsModalOpen(true);
+  };
 
   return (
     <div>
@@ -26,6 +34,7 @@ function PetDetail() {
                 className="w-full rounded object-cover transition-transform duration-300 hover:scale-125 cursor-pointer"
                 src={filteredPet[0].data.img1}
                 alt={filteredPet[0].data.img1}
+                onClick={() => handleImageClick(filteredPet[0].data.img1)}
               />
               </div>
             </div>
@@ -35,6 +44,7 @@ function PetDetail() {
                 className="w-full rounded object-cover transition-transform duration-300 hover:scale-125 cursor-pointer"
                 src={filteredPet[0].data.img2}
                 alt={filteredPet[0].data.img2}
+                onClick={() => handleImageClick(filteredPet[0].data.img2)}
               />
             </div>
               <h1 className="!p-2 !pr-18 !ml-auto rounded bg-blue-400 text-md border border-blue-400">
@@ -71,6 +81,11 @@ function PetDetail() {
           </div>
         </div>
       </div>
+      <Modal 
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        imageSrc={selectedImage}
+      />
     </div>
   );
 }

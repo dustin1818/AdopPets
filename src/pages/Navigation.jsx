@@ -13,16 +13,16 @@ function Navigation() {
         </div>
         <div className="nav">
           <ul className="flex gap-8">
-            <li className={location.pathname === "/welcome" ? "text-blue-400 font-bold" : "hover:text-blue-400"}>
+            <li className={location.pathname === "/welcome" ? "text-blue-400 font-bold !list-none" : "hover:text-blue-400 !list-none"}>
               <Link to="/welcome">Home</Link>
             </li>
-            <li className={location.pathname === "/Adopt" ? "text-blue-400 font-bold " : "hover:text-blue-400"}>
+            <li className={location.pathname === "/Adopt" ? "text-blue-400 font-bold !list-none" : "hover:text-blue-400 !list-none"}>
               <Link to="/Adopt">Adopt</Link>
             </li>
-            <li className={location.pathname === "/Donate" ? "text-blue-400 font-bold"  : "hover:text-blue-400"}>
+            <li className={location.pathname === "/Donate" ? "text-blue-400 font-bold !list-none"  : "hover:text-blue-400 !list-none"}>
               <Link to="/Donate">Donate</Link>
             </li>
-            <li className={location.pathname === "/Contact" ? "text-blue-400 font-bold" : "hover:text-blue-400"}>
+            <li className={location.pathname === "/Contact" ? "text-blue-400 font-bold !list-none" : "hover:text-blue-400 !list-none"}>
               <Link to="/Contact">Contact</Link>
             </li>
           </ul>
